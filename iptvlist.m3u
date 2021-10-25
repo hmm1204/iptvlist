@@ -372,7 +372,7 @@ http://192.168.0.1:4000/rtp/239.10.0.95:1025
 #EXTINF:-1 group-title="数字",百视通高清直播室107
 http://192.168.0.1:4000/rtp/239.10.0.96:1025
 #EXTINF:-1 group-title="香港",翡翠台
-http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 group-title="香港",J2
 https://cdn.hkdtmb.com/hls/82/index.m3u8
 #EXTINF:-1 group-title="香港",无线新闻台
